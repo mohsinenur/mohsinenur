@@ -36,8 +36,8 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/mohsineur?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/mohsinenur/cf-stats/main/output/light_card.svg" />
+<img height="273em" src="https://leetcard.jacoblin.cool/mohsinenur?theme=light&font=The%20Nautigal" />
+<!-- <img height="280em" src="https://raw.githubusercontent.com/mohsinenur/cf-stats/main/output/light_card.svg" /> -->
 </p>
 
 #### Connect With Me
