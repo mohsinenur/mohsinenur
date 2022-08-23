@@ -4,19 +4,12 @@
   <a href="https://leetcode.com/mohsinenur/">
     <img src="https://cp-logo.vercel.app/leetcode/mohsinenur" alt="Leet code rating" />
   </a>
-  <a href="https://codeforces.com/profile/mohsinenur">
-    <img src="https://raw.githubusercontent.com/mohsinenur/cf-stats/main/output/rating.svg" alt="Leet code rating" />
-  </a>
-  <a href="https://stackoverfl0000ow.com/users/7914051/mohsin">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/7914051?color=orange&label=reputation&logo=stackoverflow">
-  </a>
   <a href="https://github.com/mohsinenur?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mohsinenur?color=green&logo=github">
   </a>
   <a href="https://github.com/mohsinenur/">
     <img src="https://komarev.com/ghpvc/?username=mohsinenur" alt="visitors" />
   </a>
-
 </p>
 
 #### Bio
