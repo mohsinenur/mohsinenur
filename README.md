@@ -34,12 +34,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinenur&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-<b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/mohsinenur?theme=light&font=The%20Nautigal" />
-<!-- <img height="280em" src="https://raw.githubusercontent.com/mohsinenur/cf-stats/main/output/light_card.svg" /> -->
-</p>
-
 #### Connect With Me
 
 <p left="center">
