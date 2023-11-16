@@ -1,4 +1,4 @@
-## Hi 👋, I'm a software engineer working in Dhaka, Bangladesh
+## Hi 👋, I'm a software engineer from Dhaka, Bangladesh
 
 <p align="left">
   <a href="https://leetcode.com/mohsinenur/">
@@ -18,7 +18,7 @@
 - ⚙️ I use daily: `.py`, `.php`, `.js`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Django**, **Python**, **Laravel**, **RestAPIs**
+- 💬 Ping me about **Flask**, **Python**, **Laravel**, **RestAPIs**
 - 📫 Reach me: [instagram.com/mohsinenur](https://instagram.com/mohsinenur)
 - 📝 Checkout my [Resume](files/resume.pdf)
 
@@ -29,6 +29,7 @@
 #### Development Stuffs:
 
 <b>⚡ Github Stats</b>
+
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohsinenur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinenur&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
