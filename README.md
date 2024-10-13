@@ -1,9 +1,6 @@
 ## Hi 👋, I'm a software engineer from Dhaka, Bangladesh
 
 <p align="left">
-  <a href="https://leetcode.com/mohsinenur/">
-    <img src="https://cp-logo.vercel.app/leetcode/mohsinenur" alt="Leet code rating" />
-  </a>
   <a href="https://github.com/mohsinenur?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/mohsinenur?color=green&logo=github">
   </a>
