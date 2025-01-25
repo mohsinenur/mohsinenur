@@ -21,7 +21,7 @@
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="Python"> <img height="48" src="img/php.svg" alt="PHP"> <img height="48" src="img/laravel.svg" alt="Laravel"> <img height="48" src="img/mysql.svg" alt="MySQL"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="Linux"> <img height="48" src="img/git-original.svg" alt="Git">
+<img height="48" src="img/python-original.svg" alt="Python"> <img height="48" src="img/flask.svg" alt="Flask"> <img height="48" src="img/php.svg" alt="PHP"> <img height="48" src="img/laravel.svg" alt="Laravel"> <img height="48" src="img/mysql.svg" alt="MySQL"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="Linux"> <img height="48" src="img/git-original.svg" alt="Git">
 
 #### Development Stuffs:
 
