@@ -15,13 +15,13 @@
 - ⚙️ I use daily: `.py`, `.php`, `.js`
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Flask**, **Python**, **Laravel**, **RestAPIs**
+- 💬 Ping me about **Flask**, **Python**, **Laravel**, **PHP**, **RestAPIs**
 - 📫 Reach me: [instagram.com/mohsinenur](https://instagram.com/mohsinenur)
 - 📝 Checkout my [Resume](files/resume.pdf)
 
 #### My Current Stack
 
-<img height="48" src="img/python-original.svg" alt="python"> <img height="48" src="img/django-plain-wordmark.svg" alt="Django"> <img height="48" src="img/postgresql-original.svg" alt="postgress"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="linux"> <img height="48" src="img/nginx-original.svg" alt="nginx"> <img height="48" src="img/pytest-original.svg" alt="pytest"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/react-original.svg" alt="react">
+<img height="48" src="img/python-original.svg" alt="Python"> <img height="48" src="img/flask.svg" alt="Flask"> <img height="48" src="img/php.svg" alt="PHP"> <img height="48" src="img/laravel.svg" alt="Laravel"> <img height="48" src="img/mysql.svg" alt="MySQL"> <img height="48" src="img/docker-original.svg" alt="Docker"> <img height="48" src="img/linux-original.svg" alt="Linux"> <img height="48" src="img/git-original.svg" alt="Git">
 
 #### Development Stuffs:
 
@@ -35,14 +35,11 @@
 #### Connect With Me
 
 <p left="center">
-<a href="https://www.codewars.com/users/mohsinenur">
-  <img src="https://www.codewars.com/users/mohsinenur/badges/micro" height=25>
-</a> 
-<a href="https://twitter.com/mohsinenur">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
-</a> 
 <a href="https://www.linkedin.com/in/mohsinenur/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a>
+<a href="https://twitter.com/mohsinenur">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 <a href="https://www.facebook.com/mohsinenur">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
